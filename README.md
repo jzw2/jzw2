@@ -25,16 +25,16 @@ And some languages that I've used before but I've forgotten a decent amount
 In particular, I've written rust code on github as a compromise of my interests and practicality
 
 # Technologies
-- React
+- React: 
   
     Back in 2020, I had an internship that had me learn React along with web technologies such as Typescript and CSS.
-- Docker
+- Docker: 
   
     I have some basic experience with Docker and creating/using images.
-- Git
+- Git:
   
     I have been using Git for almost 15 years. My Github account was made in 2017.
-- Linux
+- Linux:
   
     I use Nixos every day. 
 

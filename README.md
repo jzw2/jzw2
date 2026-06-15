@@ -47,12 +47,8 @@ I was perviously more interested in academia as opposed to industry. Due to havi
 - Formal Methods
 
 
-# About me / Mental Health struggles
-I graduated from Urbana Champaign in 2021 with two degrees: BS in computer science and a BA in linguistics. I also got a minor in math.
-
-I moved to Germany in 2022 to pursue a degree in computational linguistics. 
-During this time, I had a lot of trouble making friends and was dissatisfied with the degree.
-
+# About me 
+I graduated from Urbana Champaign in 2021 with two degrees: BS in computer science and a BA in linguistics. 
 
 
 

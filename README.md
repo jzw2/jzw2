@@ -52,5 +52,3 @@ I graduated from Urbana Champaign in 2021 with two degrees: BS in computer scien
 
 
 
-As a result, a lot of what I have to show on my Github is kind of old, as I have not been a very good mental state to write quality code.
-So if you are potential employer, I hope you understand my situation and still consider me for whatever position I applied for. 
